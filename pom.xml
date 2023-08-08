@@ -10,6 +10,7 @@
     <modules>
         <module>security</module>
         <module>spring-data-jpa-course</module>
+        <module>security-jwt-course</module>
     </modules>
 
     <modelVersion>4.0.0</modelVersion>
